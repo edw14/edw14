@@ -61,7 +61,7 @@
 .intro {
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/picture1.jpg);
+	background-image: url(img/picture1.jpg);
 	background-size: cover;
 	background-position: center;
 	margin: 0 auto;
@@ -380,7 +380,7 @@ footer {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	background-image: url(/img/contact.jpg);
+	background-image: url(img/contact.jpg);
 	background-size: cover;
 	background-position: center;
 }
